@@ -61,9 +61,9 @@ The variables in this file are as follows:
 
 Human_Subject: 30 individuals labeled 1 to 30
 
-Activity_Label: 6 types of activities derived from "activity_labels"
+Activity_Label: 6 types of activities derived from "activity_labels.txt"
 
-variable: Type of activity. (i.e. tBodyAcc-mean()-X, tBodyAcc-mean()-X) This is a filtered down list that includes the string "mean" or "std". This was derived from a bigger list in "features_info"
+variable: Type of activity. (i.e. tBodyAcc-mean()-X, tBodyAcc-mean()-X) This is a filtered down list that includes the string "mean" or "std". This was derived from a bigger list in "features_info.txt"
 
 value: Numerical value corresponding to a particular variable
 
