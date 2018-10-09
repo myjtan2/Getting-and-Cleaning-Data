@@ -44,10 +44,13 @@ The following files are available for the train and test data. Their description
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
-End description from README.txt
+End description from README.txt:
+=========================================
 
 
 
+Explaining the tidy data:
+=========================================
 We ignore the inertia data in creating the summarized data.
 
 run_analysis.r creates a tidy data called summarized_data.txt
